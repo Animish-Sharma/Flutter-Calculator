@@ -1,6 +1,8 @@
 # calculator
 
-A new Flutter project.
+- This is a very basic flutter application
+- Anyone with the basic knowledge of flutter can understand this
+- url_launcher, font_awesome_flutter, google_fonts and math_expressions are some packages used in this repo
 
 ## Getting Started
 
