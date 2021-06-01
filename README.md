@@ -1,4 +1,4 @@
-# calculator
+# **Calculator**
 
 - This is a very basic flutter application
 - Anyone with the basic knowledge of flutter can understand this
